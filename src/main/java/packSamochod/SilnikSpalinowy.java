@@ -6,7 +6,7 @@ public class SilnikSpalinowy implements INaped {
     }
 
     public int getPoborPaliwaSilnika() {
-        return 8;
+        return 2;
     }
 
 //    public int getMocSilnika() {

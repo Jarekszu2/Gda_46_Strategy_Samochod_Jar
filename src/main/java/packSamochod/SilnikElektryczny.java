@@ -1,8 +1,11 @@
 package packSamochod;
 
+import lombok.Data;
+
+@Data
 public class SilnikElektryczny implements INaped {
     public int getPoborPraduSilnika() {
-        return 0;
+        return 12;
     }
 
     public int getPoborPaliwaSilnika() {

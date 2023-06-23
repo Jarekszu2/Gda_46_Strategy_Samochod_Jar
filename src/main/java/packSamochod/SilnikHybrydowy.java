@@ -2,11 +2,11 @@ package packSamochod;
 
 public class SilnikHybrydowy implements INaped {
     public int getPoborPraduSilnika() {
-        return 0;
+        return 4;
     }
 
     public int getPoborPaliwaSilnika() {
-        return 0;
+        return 1;
     }
 
 //    public int getMocSilnika() {
